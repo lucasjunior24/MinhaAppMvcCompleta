@@ -97,3 +97,7 @@ function BuscaCep() {
     });
     
 }
+
+$(document).ready(function () {
+    $("#msg_box").FadeOut(2500);
+});
